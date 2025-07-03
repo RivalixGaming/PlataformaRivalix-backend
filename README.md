@@ -46,7 +46,7 @@
 
 ## ▶️ Instruções
 
-Bash
+#### Bash:
 
 #### Clone o repositório
 git clone https://github.com/rivalixgaming/plataformarivalix-backend.git

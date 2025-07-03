@@ -17,6 +17,7 @@
 - Maven: Para gerenciamento de dependências e build do projeto.
 
 - JWT (JSON Web Token): Para criação de tokens de acesso seguros.
+- Heroku: Para deploy e hospedagem da aplicação.
 
 ---
 

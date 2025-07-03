@@ -1,4 +1,4 @@
-🛠 Tecnologias utilizadas
+## 🛠 Tecnologias utilizadas
 
 - Java 21
 
@@ -20,7 +20,7 @@
 
 ---
 
-🧪 Funcionalidades principais
+## 🧪 Funcionalidades principais
 
 - Autenticação de Usuários: Login e registro com validação de dados e tratamento de erros.
 
@@ -32,9 +32,9 @@
 
 ---
 
-🧰 Como rodar o projeto localmente
+## 🧰 Como rodar o projeto localmente
 
-⚙️ Pré-requisitos
+#### ⚙️ Pré-requisitos
 
 - JDK 21 ou superior
 
@@ -44,25 +44,25 @@
 
 ---
 
-▶️ Instruções
+## ▶️ Instruções
 
 Bash
 
-# Clone o repositório
+#### Clone o repositório
 git clone https://github.com/rivalixgaming/plataformarivalix-backend.git
 
-# Acesse a pasta
+#### Acesse a pasta
 cd plataformarivalix-backend
 
-# Instale as dependências
+#### Instale as dependências
 mvn install
 
-# Execute o projeto
+#### Execute o projeto
 mvn spring-boot:run
 O servidor estará rodando em http://localhost:8080.
 
 ---
 
-🚧 Status do projeto
+## 🚧 Status do projeto
 
-🛠 Em desenvolvimento: Novas funcionalidades estão sendo implementadas e o projeto segue em evolução.
+#### 🛠 Em desenvolvimento: Novas funcionalidades estão sendo implementadas e o projeto segue em evolução.

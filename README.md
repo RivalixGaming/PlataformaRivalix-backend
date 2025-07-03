@@ -1,42 +1,42 @@
 🛠 Tecnologias utilizadas
 
-Java 21
+- Java 21
 
-Spring Boot 3.5.0
+- Spring Boot 3.5.0
 
-Spring Security: Para autenticação e autorização.
+- Spring Security: Para autenticação e autorização.
 
-JPA (Java Persistence API): Para mapeamento objeto-relacional.
+- JPA (Java Persistence API): Para mapeamento objeto-relacional.
 
-Hibernate: Implementação da JPA para persistência de dados.
+- Hibernate: Implementação da JPA para persistência de dados.
 
-MySQL: Banco de dados relacional para produção.
+- MySQL: Banco de dados relacional para produção.
 
-H2 Database: Banco de dados em memória para testes.
+- H2 Database: Banco de dados em memória para testes.
 
-Maven: Para gerenciamento de dependências e build do projeto.
+- Maven: Para gerenciamento de dependências e build do projeto.
 
-JWT (JSON Web Token): Para criação de tokens de acesso seguros.
+- JWT (JSON Web Token): Para criação de tokens de acesso seguros.
 
 🧪 Funcionalidades principais
 
-Autenticação de Usuários: Login e registro com validação de dados e tratamento de erros.
+- Autenticação de Usuários: Login e registro com validação de dados e tratamento de erros.
 
-Gerenciamento de Usuários: CRUD (criação, leitura, atualização e exclusão) de usuários.
+- Gerenciamento de Usuários: CRUD (criação, leitura, atualização e exclusão) de usuários.
 
-Segurança com JWT: Rotas protegidas que exigem um token de autenticação válido.
+- Segurança com JWT: Rotas protegidas que exigem um token de autenticação válido.
 
-Perfil de Usuário: Endpoint para recuperar os dados do usuário logado de forma segura (sem a senha).
+- Perfil de Usuário: Endpoint para recuperar os dados do usuário logado de forma segura (sem a senha).
 
 🧰 Como rodar o projeto localmente
 
 ⚙️ Pré-requisitos
 
-JDK 21 ou superior
+- JDK 21 ou superior
 
-Maven
+- Maven
 
-Git
+- Git
 
 ▶️ Instruções
 

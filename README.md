@@ -17,6 +17,7 @@
 - Maven: Para gerenciamento de dependências e build do projeto.
 
 - JWT (JSON Web Token): Para criação de tokens de acesso seguros.
+  
 
 🧪 Funcionalidades principais
 
@@ -27,6 +28,7 @@
 - Segurança com JWT: Rotas protegidas que exigem um token de autenticação válido.
 
 - Perfil de Usuário: Endpoint para recuperar os dados do usuário logado de forma segura (sem a senha).
+  
 
 🧰 Como rodar o projeto localmente
 
@@ -37,6 +39,7 @@
 - Maven
 
 - Git
+  
 
 ▶️ Instruções
 
@@ -54,6 +57,7 @@ mvn install
 # Execute o projeto
 mvn spring-boot:run
 O servidor estará rodando em http://localhost:8080.
+
 
 🚧 Status do projeto
 

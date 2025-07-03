@@ -55,17 +55,6 @@ mvn install
 mvn spring-boot:run
 O servidor estará rodando em http://localhost:8080.
 
-📂 Estrutura do projeto
-
-src/main/java/br/com/plataforma_rivalix_back/plataforma_rivalix/
-├── config/              # Classes de configuração (SecurityConfig, SecurityConstants)
-├── controller/          # Controladores REST (UsuarioController, AuthController)
-│   └── dto/             # Data Transfer Objects (LoginRequest, LoginResponse, UsuarioDTO)
-├── filter/              # Filtros de requisição (JwtAuthenticationFilter)
-├── model/               # Entidades JPA (Usuario)
-├── repository/          # Interfaces de repositório (IUsuario)
-├── service/             # Lógica de negócios (UsuarioService)
-└── PlataformaRivalixApplication.java # Classe principal da aplicação
 🚧 Status do projeto
 
 🛠 Em desenvolvimento: Novas funcionalidades estão sendo implementadas e o projeto segue em evolução.
